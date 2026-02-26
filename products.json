@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Leather Wallet",
+      "image": "img/product1.webp",
+      "shortDescription": "High-quality genuine leather wallet.",
+      "fullDescription": "This premium leather wallet is made from 100% genuine leather. It is durable, stylish, and perfect for daily use.",
+      "price": 799,
+      "currency": "INR",
+      "category": "Accessories",
+      "features": [
+        "Genuine leather",
+        "Multiple card slots",
+        "Slim design",
+        "Long-lasting"
+      ],
+      "availability": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "Classic Wrist Watch",
+      "image": "img/product2.webp",
+      "shortDescription": "Elegant analog wrist watch.",
+      "fullDescription": "A classic wrist watch with a premium finish, suitable for formal and casual wear.",
+      "price": 2499,
+      "currency": "INR",
+      "category": "Watches",
+      "features": [
+        "Water resistant",
+        "Stainless steel body",
+        "Quartz movement"
+      ],
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "image": "img/product3.webp",
+      "shortDescription": "Noise-cancelling wireless headphones.",
+      "fullDescription": "Enjoy crystal-clear sound with active noise cancellation and long battery life.",
+      "price": 3999,
+      "currency": "INR",
+      "category": "Electronics",
+      "features": [
+        "Bluetooth connectivity",
+        "Noise cancellation",
+        "20 hours battery life",
+        "Fast charging"
+      ],
+      "availability": "Out of Stock"
+    }
+  ]
+}
